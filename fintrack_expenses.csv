@@ -4,8 +4,8 @@ T002,9/3/2025,Rent,1200,Credit,Apartment rent,Credit Card,Expense,Sep-25
 T003,9/4/2025,Utilities,145.85,Debit,Electricity + water,Checking,Expense,Sep-25
 T004,9/6/2025,Dining,22.9,Credit,Lunch with friends,Credit Card,Expense,Sep-25
 T005,9/10/2025,Transport,45,Cash,Gas fill-up,Checking,Expense,Sep-25
-T006,9/15/2025,Income,3200,Debit,Monthly salary,Checking,Expense,Sep-25
-T007,9/18/2025,Entertainment,12.99,Credit,Streaming subscription,Credit Card,Income,Sep-25
+T006,9/15/2025,Income,3200,Debit,Monthly salary,Checking,Income,Sep-25
+T007,9/18/2025,Entertainment,12.99,Credit,Streaming subscription,Credit Card,Expense,Sep-25
 T008,9/21/2025,Health,35,Debit,Pharmacy,Checking,Expense,Sep-25
 T009,9/24/2025,Groceries,74.1,Debit,Weekend stock-up,Checking,Expense,Sep-25
 T010,9/29/2025,Dining,19.5,Credit,Coffee + bagel,Credit Card,Expense,Sep-25
